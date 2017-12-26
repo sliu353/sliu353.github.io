@@ -76,8 +76,8 @@ jQuery(document).ready(function ($) {
 
 // PRELOADER JS
 $(window).load(function () {
-  $('#loader').fadeOut(1000); // set duration in brackets  
-  $('#overlay-for-loader').fadeOut(1000);
+  //$('#loader').fadeOut(1000); // set duration in brackets  
+  //$('#overlay-for-loader').fadeOut(1000);
   $('#video-background-2').vide({
     mp4: 'video/beach.mp4',
     poster: 'images/beach'
