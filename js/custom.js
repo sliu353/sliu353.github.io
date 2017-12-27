@@ -137,10 +137,16 @@ $(function () {
         "images/factory2.jpg",
         "images/factory3.jpg"
       ], { duration: 2000, fade: 750 });
+      $('#video-background-2').backstretch([
+        "images/beach.png"
+      ], { duration: 2000, fade: 750 });
       $('#subsideries').backstretch([
         "images/superstunningbackground1.jpeg",
         "images/superstunningbackground2.jpg",
         "images/superstunningbackground3.jpg",
+      ], { duration: 2000, fade: 750 });
+      $('#video-background-4').backstretch([
+        "images/cloud.png"
       ], { duration: 2000, fade: 750 });
     });
   })
