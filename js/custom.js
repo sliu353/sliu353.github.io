@@ -146,7 +146,7 @@ $(function () {
         "images/superstunningbackground3.jpg",
       ], { duration: 2000, fade: 750 });
       $('#video-background-4').backstretch([
-        "images/cloud.png"
+        "images/cloud.PNG"
       ], { duration: 2000, fade: 750 });
     });
   })
