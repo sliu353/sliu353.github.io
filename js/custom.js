@@ -90,7 +90,7 @@ $(window).load(function () {
     mp4: 'video/cloud.mp4',
     poster: 'images/cloud',
   }, {
-    posterType: 'png'
+    posterType: 'PNG'
   });
 });
 
