@@ -141,7 +141,7 @@ $(function () {
         "images/beach.png"
       ], { duration: 2000, fade: 750 });
       $('#subsideries').backstretch([
-        "images/superstunningbackground1.jpeg",
+        "images/superstunningbackground1.JPG",
         "images/superstunningbackground2.jpg",
         "images/superstunningbackground3.jpg",
       ], { duration: 2000, fade: 750 });
